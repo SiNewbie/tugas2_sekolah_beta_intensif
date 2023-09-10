@@ -23,11 +23,15 @@
     color: red;
 }
 
+a:hover {
+  color: yellow;
+}
+
  .menu  {
     border-radius: 25px;
     height: fit-content;
     display: inline-flex;
-    background-color: rgba(0, 0, 0, .4);
+    background-color: rgba(29, 28, 28, 0.925);
     -webkit-backdrop-filter: blur(10px);
     backdrop-filter: blur(10px);  
     align-items: center;
@@ -36,7 +40,7 @@
  }
 
  .menu li {
-  list-style: none;
+    list-style: none;
 		color: white;
 		font-family: sans-serif;
 		font-weight: bold;
