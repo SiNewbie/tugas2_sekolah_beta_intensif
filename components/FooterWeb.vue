@@ -41,7 +41,7 @@
       <h5 class="text-uppercase mb-4 pb-1">Search something</h5>
 
       <div class="form-outline form-white mb-4">
-        <input type="text" id="formControlLg" class="form-control form-control-lg" />
+        <input id="formControlLg" type="text" class="form-control form-control-lg" />
         <label class="form-label" for="formControlLg">Search</label>
       </div>
 
@@ -69,8 +69,8 @@
       <table class="table text-center text-white">
         <tbody class="font-weight-normal">
           <tr>
-            <td>Mon - Thu:</td>
-            <td>8am - 9pm</td>
+            <td>Senin - Selasa:</td>
+            <td>07.00 - 17.00</td>
           </tr>
           <tr>
             <td>Fri - Sat:</td>
@@ -109,4 +109,5 @@
 </script>
 
 <style>
+ 
 </style>
